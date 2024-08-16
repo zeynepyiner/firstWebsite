@@ -20,16 +20,20 @@
     <link rel="stylesheet" href="owl/owl.carousel.min.css" />
     <link rel="stylesheet" href="owl/owl.theme.default.min.css" />
   </head>
+
   <body>
   <section id="menu">
-      <div id="logo">Zeyn</div>
+  <a href="index.php">
+  <div id="logo">Zeyn</div>
+</a>
+
       <nav>
         <a href=""><i class="fas fa-home ikon"></i>Anasayfa</a>
-        <a href=""><i class="fas fa-info ikon"></i>Hakkımda</a>
-        <a href=""><i class="fas fa-graduation-cap ikon"></i>Eğitimler</a>
+        <a href="hakkimda.php"><i class="fas fa-info ikon"></i>Hakkımda</a>
+        <a href="egitimler.php"><i class="fas fa-graduation-cap ikon"></i>Eğitimler</a>
         <a href=""><i class="fas fa-user-friends ikon"></i>Ekip</a>
-        <a href=""><i class="fas fa-map-pin ikon"></i>İletişim</a>
-        <a href="panel.php"><i class="fas fa-map-pin ikon"></i>Panel Girişi</a>
+        <a href="iletisim.php"><i class="fas fa-map-pin ikon"></i>İletişim</a>
+        <a href="panel.php"><i class="fas fa-user-friends ikon"></i>Panel Girişi</a>
 
       </nav>
     </section>
@@ -56,9 +60,10 @@
       deleniti harum doloremque earum omnis? Magnam officiis, nobis quasi,
     </p>
   </div>
-</section>
-    <section id="hakkimizda">
-      <h3>Hakkımızda</h3>
+  </section>
+    
+  <section id="hakkimizda">
+      <h3>Ben kimim?</h3>
       <div class="container">
         <div id="sol">
           <h5 id="h5sol">
@@ -81,6 +86,7 @@
         </p>
       </div>
     </section>
+
     <section id="egitimler">
       <div class="container">
         <h3>Eğitimler</h3>
