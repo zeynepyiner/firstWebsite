@@ -50,17 +50,7 @@
     </section>
 
 
-<section id="anasayfa">
-  <div id="black"></div>
-  <div id="icerik">
-    <h2>Zeyn</h2>
-    <hr width="300" align="left" />
-    <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique
-      deleniti harum doloremque earum omnis? Magnam officiis, nobis quasi,
-    </p>
-  </div>
-  </section>
+
     
   <section id="hakkimizda">
       <h3>Ben kimim?</h3>
